@@ -1,2 +1,2 @@
 # latex-games
-Playing around with Latex and versioning (though Git)
+Playing around with LaTex and versioning (though Git)
